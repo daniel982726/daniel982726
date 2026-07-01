@@ -3,8 +3,12 @@
 I am interested in microbial genomics, antimicrobial resistance, and the molecular mechanisms underlying cancer development and progression.
 
 🔬 Research interests: Cancer genomics, transcriptomics, precision oncology, and computational biology.
+
 💻 Bioinformatics: R, Python, Bash, Bioconductor, RNA-seq, WES/WGS analysis, GATK, BWA, SAMtools, Git/GitHub.
+
 🧬 Current research: Identification of genomic alterations, gene expression patterns, and biomarkers associated with cancer development and progression.
+
 🌍 Open to collaborations in cancer genomics and translational bioinformatics.
+
 📫 Contact: daniel982726@gmail.com
 
